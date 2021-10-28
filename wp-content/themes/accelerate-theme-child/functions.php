@@ -1,4 +1,3 @@
-
 <?php
 /**
 * Accelerate Marketing Child functions and definitions
@@ -10,8 +9,6 @@
 * @subpackage Accelerate Marketing
 * @since Accelerate Marketing 2.0
 */
-
-
 
 // Enqueue scripts and styles
 function accelerate_child_scripts(){
